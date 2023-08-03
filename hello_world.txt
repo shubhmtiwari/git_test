@@ -1,2 +1,3 @@
 Hello everyone this is my test repository.
 Practicing agian to check my understanding.
+Learning how to add commit message using vs code editor.
